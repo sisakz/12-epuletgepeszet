@@ -1,0 +1,11 @@
+{
+  "name": "docx-to-md-scripts",
+  "private": true,
+  "type": "module",
+  "description": "Bundled converter scripts for the docx-to-md skill",
+  "dependencies": {
+    "mammoth": "^1.11.0",
+    "turndown": "^7.2.0",
+    "turndown-plugin-gfm": "^1.0.2"
+  }
+}

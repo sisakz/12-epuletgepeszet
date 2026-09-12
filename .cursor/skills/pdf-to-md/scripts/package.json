@@ -1,0 +1,9 @@
+{
+  "name": "pdf-to-md-scripts",
+  "private": true,
+  "type": "module",
+  "description": "Bundled converter scripts for the pdf-to-md skill (Node fallback)",
+  "dependencies": {
+    "unpdf": "^1.4.0"
+  }
+}
